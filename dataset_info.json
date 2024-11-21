@@ -1,0 +1,52 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "dialogues": [
+      {
+        "Dialogue_ID": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "EndTime": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "StartTime": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "Utterance_ID": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "emotion": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "problem_type": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "situation": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "speaker": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "strategy": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "text": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ]
+  },
+  "homepage": "",
+  "license": ""
+}
